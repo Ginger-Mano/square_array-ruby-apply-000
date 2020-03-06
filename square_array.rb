@@ -2,7 +2,7 @@ require 'pry'
 def square_array(array)
   array = [1, 4, 9]
 array.each do |numbers|
-  numbers *=2
+  numbers ** =(array)
 binding.pry
     print numbers
   end
