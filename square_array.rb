@@ -7,4 +7,4 @@ array.each do |numbers|
   end
 end
 
-square_array(numbers)
+square_array(numbers) = [1, 4, 9]
