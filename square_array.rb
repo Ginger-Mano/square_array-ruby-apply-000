@@ -6,5 +6,3 @@ array.each do |numbers|
     puts (numbers**2)
   end
 end
-
-square_array(numbers) = [1, 4, 9]
